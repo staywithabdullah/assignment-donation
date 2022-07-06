@@ -77,8 +77,9 @@ body {
 .red-border {
     background-color: rgba(158, 47, 47, 0.158);
     padding: auto;
-    color: brown;
+    color: red;
     border-style: solid;
+    border-radius: 5px;
 }
 
 .hr {
